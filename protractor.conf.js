@@ -1,0 +1,1 @@
+exports.config = require('./e2e/protractor.conf.js').config;
